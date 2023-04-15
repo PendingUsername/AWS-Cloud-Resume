@@ -29,8 +29,13 @@ CSS and HTML are used for the site's styling and structure, respectively. The si
 Route 53:
 Amazon Route 53 is used for DNS management for the website. It ensures that the website is accessible using a custom domain name.
 
-AWS WAF:
-AWS WAF is used to protect the website from various web-based attacks, such as SQL injection and cross-site scripting (XSS). WAF rules are created and managed to filter out malicious traffic.
+	Demo Images:
+		Unsplash (unsplash.com)
 
-Contributing:
-If you would like to contribute to this project, please feel free to fork the repository and submit a pull request. Your contributions are always welcome!
+	Icons:
+		Font Awesome (fontawesome.io)
+
+	Other:
+		jQuery (jquery.com)
+		Scrollex (github.com/ajlkn/jquery.scrollex)
+		Responsive Tools (github.com/ajlkn/responsive-tools)
