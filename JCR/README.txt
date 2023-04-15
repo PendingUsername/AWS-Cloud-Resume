@@ -28,14 +28,3 @@ CSS and HTML are used for the site's styling and structure, respectively. The si
 
 Route 53:
 Amazon Route 53 is used for DNS management for the website. It ensures that the website is accessible using a custom domain name.
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
