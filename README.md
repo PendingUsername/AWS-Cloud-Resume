@@ -48,4 +48,4 @@ AWS Firewall Manager is used to manage security rules for the web application.
 ---
 
 Deployment
-The deployment process for the project is fully automated using Github Actions and Terraform. When changes are pushed to the Github repository, Github Actions builds and deploys the web application to S3 and the API to Lambda. Terraform is used to manage the AWS resources and automate the infrastructure deployment process.
+The deployment process for the project is fully automated using Github Actions and Terraform. When changes are pushed to the Github repository, Github Actions builds and deploys the web application to S3 and the API to Lambda. Terraform is used to manage the AWS resources and automate the infrastructure deployment process. Lean more here: (https://www.terraform.io/)
