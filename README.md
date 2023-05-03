@@ -1,4 +1,4 @@
-# aws-cloud-resume
+# AWS-Cloud-Resume
 cloud resume challenge
 
 This repository contains the code for my Cloud Resume Challenge project, which is an initiative to showcase my skills in developing and deploying a modern web application using AWS services.
